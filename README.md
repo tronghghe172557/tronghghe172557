@@ -62,5 +62,4 @@
 ## Star History 
 ## Em xin phép xin ảnh của anh <a href="https://github.com/anonystick">anonystick</a>
 
-[![Star History Chart]([https://api.star-history.com/svg?repos=anonystick/anonystick&type=Date](https://scontent.fhan12-1.fna.fbcdn.net/v/t39.30808-6/441075834_420199303975790_6936303239246640443_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHjBiRMnGmygMWCfhkHFmQA6uBeg31-wWfq4F6DfX7BZ6m5qS0TJj4gIw-ltXYKvDmTnJCPTbFYQpTq1ZgwDOOA&_nc_ohc=i6rzQcfr0H0Q7kNvgH0M8I4&_nc_ht=scontent.fhan12-1.fna&oh=00_AfBloR67NFRfMEfnS-JmF8AyglkVsIkt4rMIY8WRlXqjUA&oe=66423E82))]
-
+<img href="https://scontent.fhan12-1.fna.fbcdn.net/v/t39.30808-6/441075834_420199303975790_6936303239246640443_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHjBiRMnGmygMWCfhkHFmQA6uBeg31-wWfq4F6DfX7BZ6m5qS0TJj4gIw-ltXYKvDmTnJCPTbFYQpTq1ZgwDOOA&_nc_ohc=i6rzQcfr0H0Q7kNvgH0M8I4&_nc_ht=scontent.fhan12-1.fna&oh=00_AfBloR67NFRfMEfnS-JmF8AyglkVsIkt4rMIY8WRlXqjUA&oe=66423E82" />
