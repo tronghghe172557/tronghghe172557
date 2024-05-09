@@ -59,3 +59,8 @@
   🤩: Thanks for watching my profile! Have a nice day! :wink: <br/>
 </div>
 
+## Star History 
+## Em xin phép xin ảnh của anh <a href="https://github.com/anonystick">anonystick</a>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=anonystick/anonystick&type=Date)](https://star-history.com/#anonystick/anonystick&Date)
+
